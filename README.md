@@ -9,10 +9,10 @@ Un blog increíble para el curso de [Git y GitHub de Platzi](https://platzi.com/
 ## En este curso vemos de todo:
 
 - Todos los comandos de Git
-
-* El flujo de trabado en GitHub
-* El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
+- El flujo de trabado en GitHub
+- El verdadero amor por las buenas prácticas
+- Trucos muy locos del profesor
+- Las personalidades múltiples de Freddy
+- Creado por el increíble Platzi Team
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo, Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
